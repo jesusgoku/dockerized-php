@@ -2,6 +2,7 @@
 
 - Use docker-compose override.
 - Posible scaling php containers.
+- Working with queue publishers and workers.
 
 ```bash
 docker-compose -f docker-compose.yml up --build
